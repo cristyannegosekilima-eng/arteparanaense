@@ -10,6 +10,7 @@ botoesCurtir.forEach(function(botaoCurtir){
             else{
                 contador.textContent==;
                 curtir = false;
-        }
-    }
-}
+            }
+ }
+ 
+});
